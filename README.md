@@ -9,7 +9,7 @@ The core versions below are recorded from the experiment environment export (`ms
 | Component | Version |
 | --- | --- |
 | Python | 3.11.14 |
-| PyTorch | 2.4.0+cu124 |
+| PyTorch | 2.4.0 |
 | Transformers | 5.2.0 |
 | NumPy | 1.25.0 |
 | scikit-learn | 1.6.1 |
